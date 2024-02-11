@@ -1,38 +1,38 @@
-City    Weather    Temprature
-London  Fall       68
-London  Winter     94
-London  Spring     103
-London  Summer     21
-Paris    Fall        46
-Paris    winter      86
-Paris    Spring      26
-Paris    Summer      70
-New york    Fall       106
-New York    winter      105
-New york    Spring      84
-New york    Summer      70
-Dubai    Fall        107
-Dubai    winter      102
-Dubai    Spring      94
-Dubai    Summer      21
-Tokyo    Fall       100
-Tokyo    winter      87
-Tokyo    Spring      59
-Tokyo    Summer      38
-Singapore    Fall        55
-Singapore    winter      103
-Singapore    Spring      43
-Singapore    Summer      64
-Los Angeles    Fall        75
-Los Angeles    winter      74
-Los Angeles    Spring      69
-Los Angeles    Summer      84
-Barcelona    Fall        57
-Barcelona    winter      57
-Barcelona    Spring      57
-Barcelona    Summer      92
-Madrid    Fall        66
-Marrid    winter      106
-Madrid    Spring      39
-Madrid    Summer      20
+City        Weather    Temprature
+London       Fall       68
+London       Winter     94
+London       Spring     103
+London       Summer     21
+Paris        Fall       46
+Paris        winter     86
+Paris        Spring     26
+Paris        Summer     70
+New york     Fall       106
+New York     winter     105
+New york     Spring     84
+New york     Summer     70
+Dubai        Fall       107
+Dubai        winter     102
+Dubai        Spring     94
+Dubai        Summer     21
+Tokyo        Fall       100
+Tokyo        winter     87
+Tokyo        Spring     59
+Tokyo        Summer     38
+Singapore    Fall       55
+Singapore    winter     103
+Singapore    Spring     43
+Singapore    Summer     64
+Los Angeles  Fall       75
+Los Angeles  winter     74
+Los Angeles  Spring     69
+Los Angeles  Summer     84
+Barcelona    Fall       57
+Barcelona    winter     57
+Barcelona    Spring     57
+Barcelona    Summer     92
+Madrid       Fall       66
+Marrid       winter     106
+Madrid       Spring     39
+Madrid       Summer     20
 
